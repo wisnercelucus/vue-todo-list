@@ -1,5 +1,6 @@
 # demo
 
+This app is built in the context of the Vue Crash Course on Youtube taught by the iconic Traversy Media. I will enhance it in the future.
 ## Project setup
 ```
 npm install
